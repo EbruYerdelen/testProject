@@ -9,12 +9,9 @@ function App() {
   return (
     <>
       <h1 className="h-28 w-28 transition bg-slate-800 animate-spin rounded-full">
-        hello world
+        hello world!!
       </h1>
-
-    
-      <p>my name is name</p>
-
+      <button className='rounded-xl bg-yellow-800 md:h-24 w-64' type='submit'>Submit</button>
     </>
   );
 }
