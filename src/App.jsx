@@ -11,6 +11,7 @@ function App() {
       <h1 className="h-28 w-28 transition bg-slate-800 animate-spin rounded-full">
         hello world
       </h1>
+      <button type='submit'>Submit</button>
     </>
   );
 }
